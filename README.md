@@ -23,8 +23,8 @@ Jupyter files which includes assignments and codes
 
 ![Sample Image](specialisation_certificate/Rahul_Bhoyar_Certificate.jpg)
 
-Specialisation completed on 15th February 2024.
+Specialisation completed on **15th February 2024**.
 
-Link for verification :
+**Link for verification :**
 
 [https://www.coursera.org/account/accomplishments/specialization/UKA75UMVPJV4]()
